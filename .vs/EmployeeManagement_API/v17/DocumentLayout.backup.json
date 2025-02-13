@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProTest\\EmployeeManagement_API_With_TestCase-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29603AA4-8E2C-4DDD-9103-F375E1DE1647}|EmployeeManagement_API\\EmployeeManagement_API.csproj|c:\\protest\\employeemanagement_api_with_testcase-main\\employeemanagement_api\\dal\\admin\\employeeloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29603AA4-8E2C-4DDD-9103-F375E1DE1647}|EmployeeManagement_API\\EmployeeManagement_API.csproj|solutionrelative:employeemanagement_api\\dal\\admin\\employeeloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29603AA4-8E2C-4DDD-9103-F375E1DE1647}|EmployeeManagement_API\\EmployeeManagement_API.csproj|C:\\ProTest\\EmployeeManagement_API_With_TestCase-main\\employeemanagement_api\\dal\\admin\\iemployeeloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29603AA4-8E2C-4DDD-9103-F375E1DE1647}|EmployeeManagement_API\\EmployeeManagement_API.csproj|solutionrelative:employeemanagement_api\\dal\\admin\\iemployeeloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29603AA4-8E2C-4DDD-9103-F375E1DE1647}|EmployeeManagement_API\\EmployeeManagement_API.csproj|C:\\ProTest\\EmployeeManagement_API_With_TestCase-main\\employeemanagement_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29603AA4-8E2C-4DDD-9103-F375E1DE1647}|EmployeeManagement_API\\EmployeeManagement_API.csproj|solutionrelative:employeemanagement_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeLoginService.cs",
+              "DocumentMoniker": "C:\\ProTest\\EmployeeManagement_API_With_TestCase-main\\EmployeeManagement_API\\DAL\\Admin\\IEmployeeLoginService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement_API\\DAL\\Admin\\IEmployeeLoginService.cs",
+              "ToolTip": "C:\\ProTest\\EmployeeManagement_API_With_TestCase-main\\EmployeeManagement_API\\DAL\\Admin\\IEmployeeLoginService.cs",
+              "RelativeToolTip": "EmployeeManagement_API\\DAL\\Admin\\IEmployeeLoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:54:43.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeLoginService.cs",
+              "DocumentMoniker": "C:\\ProTest\\EmployeeManagement_API_With_TestCase-main\\EmployeeManagement_API\\DAL\\Admin\\EmployeeLoginService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement_API\\DAL\\Admin\\EmployeeLoginService.cs",
+              "ToolTip": "C:\\ProTest\\EmployeeManagement_API_With_TestCase-main\\EmployeeManagement_API\\DAL\\Admin\\EmployeeLoginService.cs",
+              "RelativeToolTip": "EmployeeManagement_API\\DAL\\Admin\\EmployeeLoginService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwCAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:51:56.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\ProTest\\EmployeeManagement_API_With_TestCase-main\\EmployeeManagement_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement_API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\ProTest\\EmployeeManagement_API_With_TestCase-main\\EmployeeManagement_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeManagement_API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:11:08.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
