@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\Sonoo Kumar\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj": {}
+    "D:\\Final_Project\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Data\\Sonoo Kumar\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj": {
+    "D:\\Final_Project\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Sonoo Kumar\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj",
+        "projectUniqueName": "D:\\Final_Project\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj",
         "projectName": "EmployeeManagement.Tests",
-        "projectPath": "D:\\Data\\Sonoo Kumar\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj",
+        "projectPath": "D:\\Final_Project\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj",
         "packagesPath": "C:\\Users\\umaku\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Sonoo Kumar\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement.Tests\\obj\\",
+        "outputPath": "D:\\Final_Project\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\umaku\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Data\\Sonoo Kumar\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement_API\\EmployeeManagement_API.csproj": {
-                "projectPath": "D:\\Data\\Sonoo Kumar\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement_API\\EmployeeManagement_API.csproj"
+              "D:\\Final_Project\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement_API\\EmployeeManagement_API.csproj": {
+                "projectPath": "D:\\Final_Project\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement_API\\EmployeeManagement_API.csproj"
               }
             }
           }
@@ -91,11 +91,11 @@
         }
       }
     },
-    "D:\\Data\\Sonoo Kumar\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement_API\\EmployeeManagement_API.csproj": {
+    "D:\\Final_Project\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement_API\\EmployeeManagement_API.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Data\\Sonoo Kumar\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement_API\\EmployeeManagement_API.csproj",
+        "projectUniqueName": "D:\\Final_Project\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement_API\\EmployeeManagement_API.csproj",
         "projectName": "EmployeeManagement_API",
-        "projectPath": "D:\\Data\\Sonoo Kumar\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement_API\\EmployeeManagement_API.csproj",
+        "projectPath": "D:\\Final_Project\\EmployeeManagement_Auth_API_With_TestCase-main\\EmployeeManagement_API\\EmployeeManagement_API.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
