@@ -1,0 +1,354 @@
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.abstractions.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.runner.visualstudio.testadapter.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EmployeeManagement_API.dll.config
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EmployeeManagement_API.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EmployeeManagement_API.pdb
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csc.exe
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csc.exe.config
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csc.rsp
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csi.exe
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csi.exe.config
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csi.rsp
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Buffers.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Collections.Immutable.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Memory.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Numerics.Vectors.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\vbc.exe
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\vbc.exe.config
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\vbc.rsp
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\VBCSCompiler.exe
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\VBCSCompiler.exe.config
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Antlr3.Runtime.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EntityFramework.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EntityFramework.SqlServer.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.Memory.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.TimeProvider.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Logging.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Web.Infrastructure.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Newtonsoft.Json.Bson.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Newtonsoft.Json.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Owin.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Buffers.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Collections.Immutable.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Memory.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Net.Http.Formatting.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Numerics.Vectors.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Reflection.Metadata.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Text.Encodings.Web.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Text.Json.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Threading.Tasks.Extensions.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.ValueTuple.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Cors.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Helpers.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.Cors.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.WebHost.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Mvc.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Optimization.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Razor.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.Deployment.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.Razor.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.Abstractions.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.AspNet.WebApi.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.Container.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\WebActivatorEx.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\WebGrease.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.assert.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.core.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.execution.desktop.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EntityFramework.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EntityFramework.SqlServer.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.Memory.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.TimeProvider.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Logging.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Newtonsoft.Json.Bson.pdb
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Newtonsoft.Json.Bson.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Buffers.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Collections.Immutable.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Memory.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Net.Http.Formatting.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Numerics.Vectors.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Reflection.Metadata.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Text.Encodings.Web.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Text.Json.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Threading.Tasks.Extensions.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.ValueTuple.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Helpers.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.Cors.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.WebHost.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Mvc.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Razor.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.Deployment.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.Razor.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Newtonsoft.Json.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Optimization.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.Abstractions.pdb
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.AspNet.WebApi.pdb
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.AspNet.WebApi.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.Container.pdb
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Antlr3.Runtime.pdb
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.assert.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.core.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.execution.desktop.xml
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.csproj.AssemblyReference.cache
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.Migrations.InitialCreate.resources
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.Migrations.EntityUpdateCheck.resources
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.Migrations.SalaryTypechnage.resources
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.csproj.GenerateResource.cache
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.csproj.CoreCompileInputs.cache
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\Employee.2A0D7B19.Up2Date
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.dll
+D:\Data\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.pdb
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EmployeeManagement_API.dll.config
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EmployeeManagement_API.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EmployeeManagement_API.pdb
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csc.exe
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csc.exe.config
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csc.rsp
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csi.exe
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csi.exe.config
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\csi.rsp
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Buffers.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Collections.Immutable.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Memory.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Numerics.Vectors.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\vbc.exe
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\vbc.exe.config
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\vbc.rsp
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\VBCSCompiler.exe
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\roslyn\VBCSCompiler.exe.config
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Antlr3.Runtime.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EntityFramework.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EntityFramework.SqlServer.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.Memory.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.TimeProvider.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Logging.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Web.Infrastructure.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Newtonsoft.Json.Bson.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Newtonsoft.Json.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Owin.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Buffers.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Collections.Immutable.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Memory.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Net.Http.Formatting.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Numerics.Vectors.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Reflection.Metadata.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Text.Encodings.Web.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Text.Json.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Threading.Tasks.Extensions.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.ValueTuple.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Cors.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Helpers.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.Cors.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.WebHost.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Mvc.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Optimization.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Razor.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.Deployment.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.Razor.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.Abstractions.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.AspNet.WebApi.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.Container.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\WebActivatorEx.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\WebGrease.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.abstractions.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.assert.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.core.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.execution.desktop.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EntityFramework.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\EntityFramework.SqlServer.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.Memory.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Bcl.TimeProvider.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Logging.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Newtonsoft.Json.Bson.pdb
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Newtonsoft.Json.Bson.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Buffers.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Collections.Immutable.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Memory.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Net.Http.Formatting.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Numerics.Vectors.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Reflection.Metadata.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Text.Encodings.Web.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Text.Json.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Threading.Tasks.Extensions.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.ValueTuple.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Helpers.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.Cors.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Http.WebHost.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Mvc.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Razor.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.Deployment.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.WebPages.Razor.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Newtonsoft.Json.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\System.Web.Optimization.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.Abstractions.pdb
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.AspNet.WebApi.pdb
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.AspNet.WebApi.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Unity.Container.pdb
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\Antlr3.Runtime.pdb
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.abstractions.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.assert.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.core.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\xunit.execution.desktop.xml
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.csproj.AssemblyReference.cache
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.Migrations.InitialCreate.resources
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.Migrations.EntityUpdateCheck.resources
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.Migrations.SalaryTypechnage.resources
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.csproj.GenerateResource.cache
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.csproj.CoreCompileInputs.cache
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\Employee.2A0D7B19.Up2Date
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.dll
+D:\Data\Sonoo Kumar\EmployeeManagement_Auth_API_With_TestCase-main\EmployeeManagement_API\obj\Debug\EmployeeManagement_API.pdb
